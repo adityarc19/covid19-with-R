@@ -14,16 +14,13 @@ report.summary(Nentries = 10,
                graphical.output = T)
 
 # Totals per location
-tots.per.location(tsc, geo.loc = c('US','India'))
+tots.per.location(tsc, geo.loc = 'India')
 
 # Growth rate
-growth.rate(tsc, geo.loc = c('US','India'))
+growth.rate(tsc, geo.loc = 'India')
 
 # Totals plot
 totals.plt(tsc, c('India'))
-
-# world map
-live.map(tsc)
 
 # SIR Model
 generate.SIR.model(tsc, 'India', tot.population = 1380004385)
