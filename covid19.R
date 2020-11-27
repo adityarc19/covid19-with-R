@@ -5,7 +5,7 @@ library(covid19.analytics)    #gets data from the John Hopkins github repo for c
 ag <- covid19.data(case = 'aggregated')
 View(ag)
 tsc <- covid19.data(case = 'ts-confirmed')   #Confirmed cases time series data
-                                             #Range of dates on data: 2020-01-22 to 2020-11-26 
+                                             #Range of dates on data: 2020-01-22 to present
                                              #Nbr of records: 271
 View(tsc)
 
