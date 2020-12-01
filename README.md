@@ -72,7 +72,7 @@ The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It in
 
 [g]: https://github.com/adityarc19/covid19-with-R/blob/main/images/Sir-model.png
 
-**8. Trends in India
+**8. Trends in India**
 
 ![tr][j]
 
