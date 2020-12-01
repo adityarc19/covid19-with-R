@@ -18,3 +18,34 @@ install.packages("package-name")
 **For covid-19 forecasting purpose, `prophet` package is used.**
 
 
+### Analysis
+
+The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**.
+
+1. Confirmed cases
+
+![con][a]
+
+[a]: https://github.com/adityarc19/covid19-with-R/blob/main/images/confirmed.png
+
+2. Deaths
+
+![deaths][b]
+
+[b]: https://github.com/adityarc19/covid19-with-R/blob/main/images/deaths.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
