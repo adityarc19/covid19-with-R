@@ -72,13 +72,17 @@ The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It in
 
 [g]: https://github.com/adityarc19/covid19-with-R/blob/main/images/Sir-model.png
 
+**8. Trends in India
+
+![tr][j]
+
+[j]: https://github.com/adityarc19/covid19-with-R/blob/main/images/trends.jpeg
+
 ---
 
 ### Forecasting covid-19 for the next 2 months 
 
 ---
-
-**1. Predictions**
 
 ![preds][h]
 
@@ -90,9 +94,17 @@ The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It in
 
 Clearly, the graph does not form uniform patterns. It is only from around mid-July that a pattern is visible till present. This may have to do with varying lockdowns in states, case reporting timelines, etc. 
 
+This variability in graph is evident in the results of forecasting as:
 
+![res][i]
 
+[i]: https://github.com/adityarc19/covid19-with-R/blob/main/images/results.png
 
+The R squared values are around **42-43%** which is not great accuracy. But the data is such that predictions aren't necessarily accurate.
+
+Hence, to make more accurate predictions about the spread of Covid-19, we need more variety of data to train our model.
+
+---
 
 
 
