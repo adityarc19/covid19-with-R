@@ -78,11 +78,17 @@ The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It in
 
 ---
 
+**1. Predictions**
+
+![preds][h]
+
+[h]: https://github.com/adityarc19/covid19-with-R/blob/main/images/predictions.png
 
 
+**For an interactive version of this plot, click [here](https://adityarc19.github.io/covid/index.html).**
 
 
-
+Clearly, the graph does not form uniform patterns. It is only from around mid-July that a pattern is visible till present. This may have to do with varying lockdowns in states, case reporting timelines, etc. 
 
 
 
