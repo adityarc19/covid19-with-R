@@ -21,6 +21,8 @@ install.packages("package-name")
 
 ### Analysis
 
+---
+
 The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It includes data from all over the world.
 
 **1. Confirmed cases**
@@ -73,6 +75,8 @@ The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It in
 ---
 
 ### Forecasting covid-19 for the next 2 months 
+
+---
 
 
 
