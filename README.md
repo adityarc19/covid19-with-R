@@ -7,3 +7,9 @@ Packages used:
 3. prophet
 4. lubridate
 5. ggplot2
+
+For installing any new package in R, type the following command:
+
+```
+install.packages("package-name")
+```
