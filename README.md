@@ -17,22 +17,72 @@ install.packages("package-name")
 
 **For covid-19 forecasting purpose, `prophet` package is used.**
 
+---
 
 ### Analysis
 
-The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**.
+The data for analysis is retreived from **Jan 1 2020** to **30 Nov 2020**. It includes data from all over the world.
 
-1. Confirmed cases
+**1. Confirmed cases**
 
 ![con][a]
 
 [a]: https://github.com/adityarc19/covid19-with-R/blob/main/images/confirmed.png
 
-2. Deaths
+**2. Deaths**
 
 ![deaths][b]
 
 [b]: https://github.com/adityarc19/covid19-with-R/blob/main/images/deaths.png
+
+
+**3. Recovered**
+
+![rec][c]
+
+[c]: https://github.com/adityarc19/covid19-with-R/blob/main/images/recovered.png
+
+
+**4. Aggregate**
+
+![agg][d]
+
+[d]: https://github.com/adityarc19/covid19-with-R/blob/main/images/aggregate.png
+
+
+**5. Total cases in India**
+
+![tot][e]
+
+[e]: https://github.com/adityarc19/covid19-with-R/blob/main/images/total.png
+
+
+**6. Growth rate in India**
+
+![grt][f]
+
+[f]: https://github.com/adityarc19/covid19-with-R/blob/main/images/growth.png
+
+
+**7. SIR model for India**
+
+![sir][g]
+
+[g]: https://github.com/adityarc19/covid19-with-R/blob/main/images/SIR-model.png
+
+---
+
+### Forecasting covid-19 for the next 2 months 
+
+
+
+
+
+
+
+
+
+
 
 
 
